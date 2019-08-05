@@ -1,0 +1,3 @@
+[submodule "baoshuigouji"]
+	path = baoshuigouji
+	url = https://github.com/winnilove/baoshuigouji.git
