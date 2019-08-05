@@ -1,0 +1,27 @@
+{
+    "data":[
+        {
+            "pic_url":"http://img.baoshuiguoji.com/2019/07/31/c8596af058bc57039b15e37106b1e40f.jpg",
+            "name": "图片名称",
+            "goods_id": "1"
+        },
+        {
+            "pic_url":"http://img.baoshuiguoji.com/2019/07/31/d41c1bf3fc3b795c6be2a0aa5a240483.jpg",
+            "name": "图片名称",
+            "goods_id": "2"
+        },
+        {
+            "pic_url":"http://img.baoshuiguoji.com/2019/07/29/ec736cc3078be6d409b49d45f7251e87.jpg",
+            "name": "图片名称",
+            "goods_id": "3"
+        },
+        {
+            "pic_url":"http://img.baoshuiguoji.com/2019/07/29/61af730bd21e3824fe75b8e18dd28b2f.jpg",
+            "name": "图片名称",
+            "goods_id": "4"
+        }
+    ],
+    "result":true
+}
+
+

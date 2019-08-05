@@ -1,0 +1,53 @@
+.search{
+    height:50px;
+    max-width: 640px;
+    padding:10px 0px;
+    background: #fff;
+    margin:0 auto;
+    display: flex;
+    .logo{
+        height: 20px;
+        width: auto;
+        margin-top: 5px;
+    }
+    .search-area{
+        flex:6;
+        margin-left: 10px;
+        border: 1px solid #D6D6D6;
+        border-radius: 8px;
+        overflow: hidden;
+        margin-right: 5px;
+        display: flex;
+        flex-flow: row nowrap;
+        justify-content:space-between;
+        .so-key{
+            display: block;
+            -moz-box-flex: 1;
+            -webkit-box-flex: 1;
+            box-flex: 1;
+            height: 26px;
+            border: none;
+            box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            padding: 2px 2px 2px 8px;
+            background: transparent;
+            font-size: 12px;
+            line-height: 16px;
+        }
+        .so-btn {
+            width: 40px;
+            height: 26px;
+            background: url(http://m.baoshuiguoji.com/themes/default/images/mic_so_btn.jpg) center 1px no-repeat;
+            border: none;
+            cursor: pointer;
+        }
+    }
+    .m-logins{
+        flex:1;
+        line-height: 30px;
+        color:#333;
+    }
+}
+input:focus{
+    outline:none;
+}
